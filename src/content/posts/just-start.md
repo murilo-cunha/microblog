@@ -1,6 +1,6 @@
 ---
 title: "Just start"
-description: "Am I really tired?"
+description: "On doing the things you want, but don't have to"
 pubDate: "Feb 19 2025"
 tags: ["blogging", "philosophy"]
 ---
