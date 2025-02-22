@@ -42,8 +42,9 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Build with Astro
+      - name: Install and build with Astro
         run: |
+          deno install
           deno task build \
             --site "${{ steps.pages.outputs.origin }}" \
             --base "${{ steps.pages.outputs.base_path }}"
