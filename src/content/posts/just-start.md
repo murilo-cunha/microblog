@@ -2,7 +2,7 @@
 title: "Just start"
 description: "On doing the things you want, but don't have to"
 pubDate: "Feb 19 2025"
-tags: ["blogging", "philosophy"]
+tags: ["blogging", "thoughts"]
 ---
 
 My wife just came and said: "I didn't know you were starting your blog today."
