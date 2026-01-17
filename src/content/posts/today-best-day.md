@@ -1,6 +1,6 @@
 ---
 title: 'How can you make today the best day?'
-description: 'Week 1 2026'
+description: 'W1 2026 - And does that translate to a good life?'
 pubDate: 'Jan 11 2026'
 tags: ['prompts', 'meditations', 'thoughts']
 ---
