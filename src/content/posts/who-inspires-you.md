@@ -2,7 +2,7 @@
 title: 'Who inspires you and why?'
 description: 'W2 2026 - Doing hard things'
 pubDate: 'Jan 17 2026'
-tags: ['prompts', 'meditations', 'thoughts']
+tags: ['prompts', 'meditations', 'thoughts', 'inspiration']
 ---
 
 I have a hard time with this question. Reality is that there's a lot of people that inspires me. That I admire. But it's hard to put names. There's no one person that I could just name and talk about. But what I do know that the reasons why they inspire me.
